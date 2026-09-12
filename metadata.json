@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Quầy Giao Dịch Số",
+  "description": "Ứng dụng tương tác với khách hàng tại quầy giao dịch VietinBank: giải đáp thắc mắc, tải iPay, mini game nhận quà, tính lãi tiết kiệm, lịch trả nợ vay, sản phẩm nổi bật và điểm giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
